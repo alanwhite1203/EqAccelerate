@@ -15,6 +15,9 @@ The product is subject to the credit risk of the issuer. Also, unique to this pr
 Due to the complexity of the structured note, Monte Carlo simulation is a popular choice for this product. 
 
 
-Reference:
-https://finpricing.com/lib/EqAccelerate.html
+References:
+
+https://finpricing.com/lib/EqRangeAccrual.html
+
+https://bitbucket.org/cmrm11/eqarn/downloads/EqAccelerate-20.pdf
 
